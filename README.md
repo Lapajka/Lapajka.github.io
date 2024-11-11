@@ -1,7 +1,7 @@
-#Lucky
-*HTML5
+# Lucky
+* HTML5
 
-##Feladatok
+## Feladatok
 
 1. Adatgyűjtés
 1. Tervezés
