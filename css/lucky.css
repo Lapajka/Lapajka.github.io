@@ -4,6 +4,8 @@ body {
 nav {
     background-color: #1f5b25;
     padding: 15px;
+    position: fixed;
+    width: 100%;
 }
 
 nav a{
@@ -15,5 +17,12 @@ nav a:hover{
     text-decoration: none;
 }
 nav a:first-child{
-    font-size: 1.5;
+    font-size: 1.5em;
+}
+
+.banner{
+    background-image: url("../img/banner.jpg");
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
 }
