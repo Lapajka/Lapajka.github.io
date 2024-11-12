@@ -1,4 +1,4 @@
-body {
+body, .modal-header, .modal-footer {
     background-color: #fbefdb;
 }
 nav {
