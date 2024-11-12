@@ -30,6 +30,12 @@ h1{
     color: #1f5b25;
     text-align: center;
 }
+#napiajanlat{
+    width: 40px;
+    position: absolute;
+    top:10px;
+    right: 20px;
+}
 .kave{
     color:#1f5b25;
     background-color: #fff;
