@@ -26,6 +26,10 @@ nav a:first-child{
     background-size: cover;
     height: 400px;
 }
+h1{
+    color: #1f5b25;
+    text-align: center;
+}
 .kave{
     color:#1f5b25;
     background-color: #fff;
